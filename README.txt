@@ -22,13 +22,11 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
 
 
-
 1. http://localhost/online%20car%20rental%20PHP%20upd/carrental/index.php?#
 
 2. http://localhost/phpmyadmin/index.php?route=/import
 
 3. http://localhost/online%20car%20rental%20PHP%20upd/carrental/admin/dashboard.php
-
 
 
 
